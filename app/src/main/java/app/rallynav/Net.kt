@@ -16,7 +16,7 @@ object AppConfig {
      * Серверы OpenStreetMap требуют, чтобы приложение представлялось.
      * ЗАМЕНИ адрес ниже на свой репозиторий или почту.
      */
-    const val USER_AGENT = "RallyNav/0.1 (https://github.com/zxkg96-ops/rally-nav)"
+    const val USER_AGENT = "RallyNav/0.1 (https://github.com/ЗАМЕНИ-НА-СВОЙ-НИК/rally-nav)"
     const val VALHALLA_URL = "https://valhalla1.openstreetmap.de/route"
     const val NOMINATIM_URL = "https://nominatim.openstreetmap.org/search"
 }
